@@ -58,4 +58,4 @@ If EOS helped you, consider supporting the project.
 ☕ [Support on Ko-fi](#) ✦
 💡 [Suggest a feature](#)
 
--# No Ko-Fi page yet, still a minor
+> No Ko-Fi page yet, still a minor
