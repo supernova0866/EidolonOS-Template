@@ -54,6 +54,6 @@ Full documentation in the [EidolonOS core repo →](https://github.com/supernova
 
 If EOS helped you, consider supporting the project.
 
-⭐ Star if you like it
-☕ [Support on Ko-fi](#)
+⭐ Star if you like it ✦
+☕ [Support on Ko-fi](#) ✦
 💡 [Suggest a feature](#)
