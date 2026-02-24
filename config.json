@@ -1,0 +1,60 @@
+{
+  "_comment": "EidolonOS config — see Config.md for full documentation",
+
+  "title": "Your Name",
+  "desc": "welcome to my corner of the internet",
+
+  "age": null,
+  "_age_hint": "accepts: DD-MM-YYYY | YYYY-MM-DD | Unix timestamp | null to hide",
+
+  "quotes": true,
+  "_quotes_hint": "requires data/quotes.json — set false to hide the quote block entirely",
+
+  "about": {
+    "name": "Your Name",
+    "desc": "Just a person on the internet who likes making things.",
+    "identity": "Your Name",
+    "status": "Perpetually online",
+    "vibe": "Chaotic creative"
+  },
+
+  "socials": {
+    "_hint": "full profile URLs — remove or set null to hide that card",
+    "github": null,
+    "instagram": null,
+    "twitter": null,
+    "spotify": null,
+    "youtube": null,
+    "steam": null
+  },
+
+  "modules": {
+    "projects": false,
+    "_projects_hint": "requires data/projects.json",
+
+    "hobbies": false,
+    "_hobbies_hint": "requires data/things.json",
+
+    "discord": {
+      "enabled": false,
+      "id": null,
+      "_id_hint": "your Discord user ID — you must also join discord.gg/lanyard"
+    }
+  },
+
+  "navbar": false,
+  "_navbar_hint": "side navigation panel — 3 line toggle at top left",
+
+  "theme": {
+    "default": "dark",
+    "_default_hint": "dark | light",
+    "extras": {
+      "midnight": false,
+      "sepia": false,
+      "ivory": false,
+      "cobalt": false,
+      "terminal": false,
+      "cli": false
+    }
+  }
+}
