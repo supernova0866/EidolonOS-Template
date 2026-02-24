@@ -1,1 +1,16 @@
-
+[
+  {
+    "name": "Project Name",
+    "desc": "Short description of what this project is.",
+    "tags": ["Tag1", "Tag2"],
+    "status": "ongoing",
+    "redirect": null
+  },
+  {
+    "name": "Project-2"
+    "desc": "Description"
+    "tags": ["Tags2","Tags3"],
+    "status": "planned",
+    "redirect": "https://supernova0866.github.io/Lore"
+  }
+]
