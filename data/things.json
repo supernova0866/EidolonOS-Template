@@ -1,1 +1,12 @@
-
+[
+  {
+    "icon": "🎮",
+    "title": "Hobby Title",
+    "desc": "Short description of this hobby or interest."
+  },
+  {
+    "icon": "♾️",
+    "title": "Hobby 2 Title",
+    "desc": "Short desc of this hobby, keep adding in the similar manner"
+  }
+]
