@@ -37,6 +37,8 @@ Quick reference for every field in `config.json`.
 | `terminal` | Green on black |
 | `cli` | Hacker green with typewriter effect |
 
+Review themes at [My Page](https://supernova0866.github.io/Lore) 
+
 ---
 
 For full documentation → [EidolonOS Core Repo](https://github.com/supernova0866/EidolonOS)
