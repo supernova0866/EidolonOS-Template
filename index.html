@@ -782,8 +782,16 @@ function setTheme(id) {
   toggleBtn.innerHTML = t.icon;
   buildDropdown();
   if (id === 'cli') startCLI(); else stopCLI();
+  updateScrollLine();
 }
 
+function updateScrollLine() {
+      const line = document.querySelector('.scroll-line');
+      if (!line) return;
+      const accent = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim();
+      line.style.background = `linear-gradient(to bottom, ${accent}, transparent)`;
+}
+  
 function buildDropdown() {
   dropdown.innerHTML = THEME_DEFS
     .filter(t => enabledThemes.includes(t.id))
