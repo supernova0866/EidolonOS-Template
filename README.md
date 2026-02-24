@@ -57,3 +57,5 @@ If EOS helped you, consider supporting the project.
 ⭐ Star if you like it ✦
 ☕ [Support on Ko-fi](#) ✦
 💡 [Suggest a feature](#)
+
+-# No Ko-Fi page yet, still a minor
